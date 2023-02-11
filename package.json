@@ -7,6 +7,8 @@
     "webpack",
     "loader"
   ],
+  "repository": "git@biulight.github.com:biulight/px2rem-loader-pro.git",
+  "author": "biulight <biulight007@gmail.com>",
   "files": [
     "lib",
     "README.md",
