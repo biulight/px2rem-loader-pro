@@ -5,6 +5,14 @@ __metadata:
   version: 6
   cacheKey: 8
 
+"@biulight/px2rem-loader-pro@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@biulight/px2rem-loader-pro@workspace:."
+  dependencies:
+    px2rem: ^0.5.0
+  languageName: unknown
+  linkType: soft
+
 "ansi-regex@npm:^0.2.0, ansi-regex@npm:^0.2.1":
   version: 0.2.1
   resolution: "ansi-regex@npm:0.2.1"
@@ -193,13 +201,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"loader-utils@npm:^3.2.1":
-  version: 3.2.1
-  resolution: "loader-utils@npm:3.2.1"
-  checksum: 4e3ea054cdc8be1ab1f1238f49f42fdf0483039eff920fb1d442039f3f0ad4ebd11fb8e584ccdf2cb7e3c56b3d40c1832416e6408a55651b843da288960cc792
-  languageName: node
-  linkType: hard
-
 "minimatch@npm:^3.1.1":
   version: 3.1.2
   resolution: "minimatch@npm:3.1.2"
@@ -231,15 +232,6 @@ __metadata:
   checksum: 060840f92cf8effa293bcc1bea81281bd7d363731d214cbe5c227df207c34cd727430f70c6037b5159c8a870b9157cba65e775446b0ab06fd5ecc7e54615a3b8
   languageName: node
   linkType: hard
-
-"px2rem-loader-pro@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "px2rem-loader-pro@workspace:."
-  dependencies:
-    loader-utils: ^3.2.1
-    px2rem: ^0.5.0
-  languageName: unknown
-  linkType: soft
 
 "px2rem@npm:^0.5.0":
   version: 0.5.0

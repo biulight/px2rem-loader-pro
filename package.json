@@ -1,6 +1,7 @@
 {
   "name": "@biulight/px2rem-loader-pro",
   "version": "0.0.1",
+  "description": "css post loader for px2rem",
   "main": "index.js",
   "keywords": [
     "webpack",
@@ -13,9 +14,9 @@
     "index.js",
     "LICENSE"
   ],
+  "license": "MIT",
   "packageManager": "yarn@3.4.1",
   "dependencies": {
-    "loader-utils": "^3.2.1",
     "px2rem": "^0.5.0"
   }
 }
