@@ -10,7 +10,8 @@
     "lib",
     "README.md",
     "package.json",
-    "index.js"
+    "index.js",
+    "LICENSE"
   ],
   "packageManager": "yarn@3.4.1",
   "dependencies": {
